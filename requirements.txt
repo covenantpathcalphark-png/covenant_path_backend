@@ -6,4 +6,5 @@ joblib
 python-dotenv
 pymongo
 scikit-learn
+xgboost
 
