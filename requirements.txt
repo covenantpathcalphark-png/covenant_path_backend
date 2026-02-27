@@ -1,3 +1,4 @@
+python-3.11.9
 fastapi
 uvicorn
 pandas
@@ -5,3 +6,4 @@ joblib
 python-dotenv
 pymongo
 scikit-learn
+
