@@ -6,8 +6,6 @@ joblib
 python-dotenv
 pymongo
 scikit-learn
-deepface
 opencv-python-headless
-tensorflow
 openpyxl
 Pillow
