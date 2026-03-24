@@ -26,7 +26,7 @@ MONGO_URI = os.getenv("MONGO_URI")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://singlepro.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
