@@ -1241,3 +1241,7 @@ async def get_matches(request: dict):
 
     matches.sort(key=lambda x: x["match_score"], reverse=True)
     return {"matches": matches[:20]}
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("server:app", host="0.0.0.0", port=10000)
