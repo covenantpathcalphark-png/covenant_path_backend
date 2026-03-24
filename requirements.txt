@@ -9,3 +9,4 @@ scikit-learn
 opencv-python-headless
 openpyxl
 Pillow
+deepface
