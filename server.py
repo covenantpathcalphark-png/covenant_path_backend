@@ -10,7 +10,7 @@ import numpy as np
 import cv2
 from bson import ObjectId
 from datetime import datetime, timedelta
-from deepface import DeepFace
+'''from deepface import DeepFace'''
 
 # ─────────────────────────────────────────────
 # Init
